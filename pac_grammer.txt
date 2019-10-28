@@ -1,4 +1,6 @@
-参考https://doubibackup.com/3we1qxzj-6.html
+规则参考：
+https://doubibackup.com/3we1qxzj-6.html
+https://adblockplus.org/en/filter-cheatsheet
 
 === 通配符支持 => *
 *.example.com/ 代表 http://example.com http://233.example.com https://233.example.com https://666.example.com/233.mp4 全部走代理。
