@@ -39,6 +39,8 @@
 ||tumblr.com
 ||64clouds.com
 ||china-internet-exchange.com
+||byr.cn
+||bitpt.cn
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
