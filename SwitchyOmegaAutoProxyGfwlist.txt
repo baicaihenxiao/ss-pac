@@ -41,6 +41,7 @@
 ||china-internet-exchange.com
 ||byr.cn
 ||bitpt.cn
+||urbandictionary.com
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
