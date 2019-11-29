@@ -42,6 +42,7 @@
 ||byr.cn
 ||bitpt.cn
 ||urbandictionary.com
+||uni-trier.de
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
