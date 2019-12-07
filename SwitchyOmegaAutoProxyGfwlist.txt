@@ -43,6 +43,7 @@
 ||bitpt.cn
 ||urbandictionary.com
 ||uni-trier.de
+||wikibooks.org
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
