@@ -45,6 +45,7 @@
 ||uni-trier.de
 ||wikibooks.org
 ||github.io
+||arxiv.org
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
