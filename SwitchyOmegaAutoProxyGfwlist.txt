@@ -51,6 +51,7 @@
 ||githubusercontent.com
 ||mendeley.com
 ||elsevier.com
+||bigfishgames.com
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
