@@ -48,6 +48,7 @@
 ||arxiv.org
 ||fontawesome.com
 ||wikimedia.org
+||githubusercontent.com
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
