@@ -50,6 +50,7 @@
 ||wikimedia.org
 ||githubusercontent.com
 ||mendeley.com
+||elsevier.com
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
