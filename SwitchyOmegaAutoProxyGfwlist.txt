@@ -52,6 +52,7 @@
 ||mendeley.com
 ||elsevier.com
 ||bigfishgames.com
+||blockchain.com
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
