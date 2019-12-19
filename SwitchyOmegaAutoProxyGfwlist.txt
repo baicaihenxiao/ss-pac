@@ -53,6 +53,7 @@
 ||elsevier.com
 ||bigfishgames.com
 ||blockchain.com
+||bitcoin.it
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
