@@ -54,6 +54,7 @@
 ||bigfishgames.com
 ||blockchain.com
 ||bitcoin.it
+||leagueoflegends.com
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
