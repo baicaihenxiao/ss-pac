@@ -55,6 +55,7 @@
 ||blockchain.com
 ||bitcoin.it
 ||leagueoflegends.com
+||wikidiff.com
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
