@@ -57,6 +57,7 @@
 ||leagueoflegends.com
 ||wikidiff.com
 ||wordreference.com
+||doi.org
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
