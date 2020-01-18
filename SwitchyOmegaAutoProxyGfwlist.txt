@@ -60,6 +60,7 @@
 ||doi.org
 ||stackexchange.com
 ||synonyms.com
+||gamepedia.com
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
