@@ -61,6 +61,7 @@
 ||stackexchange.com
 ||synonyms.com
 ||gamepedia.com
+||cser.club
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
