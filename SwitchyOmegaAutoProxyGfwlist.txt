@@ -63,6 +63,7 @@
 ||gamepedia.com
 ||cser.club
 ||fandom.com
+||apache.org
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
