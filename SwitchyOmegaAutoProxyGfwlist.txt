@@ -64,6 +64,7 @@
 ||cser.club
 ||fandom.com
 ||apache.org
+||java-design-patterns.com
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
