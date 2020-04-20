@@ -65,6 +65,7 @@
 ||fandom.com
 ||apache.org
 ||java-design-patterns.com
+||gitbook.com
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
