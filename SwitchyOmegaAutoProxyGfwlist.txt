@@ -66,6 +66,7 @@
 ||apache.org
 ||java-design-patterns.com
 ||gitbook.com
+||js.org
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
