@@ -68,6 +68,7 @@
 ||gitbook.com
 ||js.org
 ||githubassets.com
+||gitbooks.io
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
