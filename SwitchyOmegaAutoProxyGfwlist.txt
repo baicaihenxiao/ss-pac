@@ -39,8 +39,6 @@
 ||tumblr.com
 ||64clouds.com
 ||china-internet-exchange.com
-||byr.cn
-||bitpt.cn
 ||urbandictionary.com
 ||uni-trier.de
 ||wikibooks.org
