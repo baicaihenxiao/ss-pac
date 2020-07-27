@@ -71,6 +71,7 @@
 !新版
 ||gitbook.io
 ||apache.org
+||tutorialspoint.com
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
