@@ -73,6 +73,7 @@
 ||apache.org
 ||tutorialspoint.com
 ||urbandictionary.com
+||bit.ly
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
