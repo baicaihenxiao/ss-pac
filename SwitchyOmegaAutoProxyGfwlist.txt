@@ -75,6 +75,7 @@
 ||urbandictionary.com
 ||bit.ly
 ||nocookie.net
+||dblp.org
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
