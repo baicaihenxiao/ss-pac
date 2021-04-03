@@ -76,6 +76,7 @@
 ||bit.ly
 ||nocookie.net
 ||dblp.org
+||inoreader.com
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
