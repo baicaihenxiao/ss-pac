@@ -77,6 +77,8 @@
 ||nocookie.net
 ||dblp.org
 ||inoreader.com
+||crateentertainment.com
+||grimtools.com
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
